@@ -50,7 +50,7 @@ jobs:
           if [ "${{ matrix.goos }}" = "windows" ]; then
             BINARY="${BINARY}.exe"
           fi
-          go build -o "$BINARY" .
+          go build -o "$BINARY" ./cmd/gemcheck
 
       - name: Archive
         run: |
