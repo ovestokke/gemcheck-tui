@@ -4,7 +4,10 @@ A terminal UI for analyzing Path of Exile transfigured gem prices and expected v
 
 Fetches live pricing from poe.ninja and gem data from the PoE wiki, then calculates EV for each gem's transfiguration pool using best-of-3 draw statistics. Helps you figure out which gems are worth farming.
 
-<img width="1204" height="967" alt="image" src="https://github.com/user-attachments/assets/98d45f17-22f0-4f66-a505-8af83cf31c30" />
+<img width="1205" height="970" alt="image" src="https://github.com/user-attachments/assets/2817cc7b-a5cb-4daa-8945-376242ddc379" />
+<img width="1202" height="317" alt="image" src="https://github.com/user-attachments/assets/83d11cec-f9cf-46fb-b3af-71d78bc54162" />
+<img width="1198" height="286" alt="image" src="https://github.com/user-attachments/assets/02808cce-4fe6-47db-8025-138189fb7241" />
+
 
 
 ## Features
